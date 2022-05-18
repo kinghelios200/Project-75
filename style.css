@@ -1,0 +1,31 @@
+h3{
+    color:greenyellow;
+}
+img{
+    width: 70%;
+    height: 20%;
+}
+#newstwo h5{
+font-size: 20px;
+padding: 6px 22px;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+#newsone h5{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    }
+    .a i{
+        float: right;
+    }
+    .b i{
+        float: right;
+    }
+    #tycc{
+        margin-bottom: 20px;
+    }
+    #contact iframe{
+        width: 100%;
+    }
